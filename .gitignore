@@ -1,0 +1,14 @@
+# Ignorar credenciales de Google Cloud
+mi-clave.json
+
+# Archivos de entorno
+.env
+
+# Archivos generados
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+
+# Salida de datos
+outputs/
