@@ -1,5 +1,4 @@
-# 📌 ETL Films2 - Proceso ETL con Python y Google Cloud Storage para prueba tecnica de Ingeniero de Datos
-
+# 📌 ETL Films2 - Proceso ETL con Python y Google Cloud Storage
 Este proyecto implementa un **ETL** (Extracción, Transformación y Carga) 
 
 ---
@@ -7,7 +6,7 @@ Este proyecto implementa un **ETL** (Extracción, Transformación y Carga)
 ## 🎯 1. Estructura del Proyecto
 
 ```
-Prueba_tecnica_Ing_Datos/
+Proyecto_ETL/
 │── data/                  # Carpeta con el archivo Films_2.xlsx
 │── etl/                   # Módulos del proceso ETL
 │   ├── __init__.py        # Indica que es un paquete
